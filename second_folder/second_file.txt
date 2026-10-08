@@ -1,1 +1,1 @@
-
+Add new line to second_file.txt from Explorer
