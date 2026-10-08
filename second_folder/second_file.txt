@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Add new line to second_file.txt from Explorer
+=======
+zmena z githubu
+>>>>>>> 076f5f24827c24b331f6eb262487e643892516ae
